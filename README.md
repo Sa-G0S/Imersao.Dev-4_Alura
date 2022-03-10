@@ -14,51 +14,35 @@
 [Link do resultado](https://codepen.io/sa-g0s/full/xxPeXYg) <br />
 
 
-<p align="justify">Na primeira aula o desafio proposto foi a crianção de uma calculadora de média, para isso foi necessário entender sobre os conceitos de variáveis e realização operações!</p>
-
-<p align="center">
-  <img src="./![image](https://user-images.githubusercontent.com/97907333/157754318-3d5203d5-9ccf-4716-8974-4dde951d5fb8.png)" title="Resultado">
-</p>
+<p align="justify">Na primeira aula o desafio proposto foi a criação de uma calculadora de média, para isso foi necessário entender sobre os conceitos de variáveis e realização operações!</p>
 
 
-<h1 align="center">Aula-02 - Conversor de moedas :heavy_check_mark:</h1> <br />
+<h1 align="center">Aula 2 - Conversor de moedas</h1> <br />
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b5dfa400-42e7-42db-8674-df98a46a8488/deploy-status)](https://vitor-imersaodev-conversor.netlify.app/)
-
-[Link do resultado](https://vitor-imersaodev-conversor.netlify.app/) <br />
-[Link do repositorio](https://github.com/vitorFRE/ImersaoDev-alura/tree/main/CONVERSOR-DE-MOEDAS) <br />
-
-<p align="justify">Segunda aula da Imersão Dev, criar um conversor de moedas, onde você conseguirá transformar em reais um produto que estiver com o preço em dólares!</p>
-
-<p align="center">
-  <img src="./prints/aula02.png" title="Resultado">
-</p>
+[Link do resultado](https://codepen.io/sa-g0s/full/OJOYjXN) <br />
 
 
-<h1 align="center">Aula-03 - Mentalista :heavy_check_mark:</h1> <br />
+<p align="justify">Na segunda aula o desafio proposto foi a criação de um conversor de moedas, onde você poderá transformar em reais um valor que estiver em Dólar,Euro,Bitcoin ou Libra!</p>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b5dfa400-42e7-42db-8674-df98a46a8488/deploy-status)](https://vitor-imersaodev-mentalista.netlify.app/)
 
-[Link do resultado](https://vitor-imersaodev-mentalista.netlify.app/) <br />
-[Link do repositorio](https://github.com/vitorFRE/ImersaoDev-alura/tree/main/MENTALISTA) <br />
 
-<p align="justify">Terceira aula da Imersão Dev, Tente adivinhar o número secreto!</p>
+<h1 align="center">Aula 3 - O mentalista </h1> <br />
 
-<p align="center">
-  <img src="./prints/aula03.png" title="Resultado">
-</p>
 
-<h1 align="center">Aula-04 - AluraFlix :heavy_check_mark:</h1> <br />
+[Link do resultado](https://codepen.io/sa-g0s/full/jOajYqM) <br />
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b5dfa400-42e7-42db-8674-df98a46a8488/deploy-status)](https://vitor-imersaodev-aluraflix.netlify.app/)
 
-[Link do resultado](https://vitor-imersaodev-aluraflix.netlify.app/) <br />
-[Link do repositorio](https://github.com/vitorFRE/ImersaoDev-alura/tree/main/ALURAFLIX) <br />
+<p align="justify">Na terceira aula o desafio proposto foi a criação de um jogo de adivinhação, onde o usuário terá 3 chances para acertar um número de 0 a 10, e caso erre, terá uma dica se o número correto é maior ou menor ao número chutado.</p>
 
-<p align="justify">Quarta aula da Imersão Dev, exibir os pôsters de todos os nossos filmes preferidos na tela do navegador.!</p>
 
-<p align="center">
-  <img src="./prints/aula04.png" title="Resultado">
-</p>
+<h1 align="center">Aula 4 - AluraFlix </h1> <br />
+
+
+[Link do resultado](https://codepen.io/sa-g0s/pen/rNYXvmz) <br />
+
+
+<p align="justify">Na quarta aula o desafio proposto era criar uma lista, com imagens de qualquer assunto que era de interesse pessoal, podendo ser filmes,séries,cursos etc.</p>
+
+
 
 
