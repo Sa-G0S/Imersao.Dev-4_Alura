@@ -14,7 +14,7 @@
 [Link do resultado](https://codepen.io/sa-g0s/full/xxPeXYg) <br />
 
 
-<p align="justify">Na primeira aula o desafio proposto foi a criação de uma calculadora de média, para isso foi necessário entender sobre os conceitos de variáveis e realização operações!</p>
+<p align="justify">Na primeira aula o desafio proposto foi a criação de uma calculadora de média, para isso foi necessário entender sobre os conceitos de variáveis e realização operações! E ainda foi proposto um desafio extra, que era a criação de um conversor de temperaturas.</p>
 
 
 <h1 align="center">Aula 2 - Conversor de moedas</h1> <br />:octocat:
@@ -22,7 +22,7 @@
 [Link do resultado](https://codepen.io/sa-g0s/full/OJOYjXN) <br />
 
 
-<p align="justify">Na segunda aula o desafio proposto foi a criação de um conversor de moedas, onde você poderá transformar em reais um valor que estiver em Dólar,Euro,Bitcoin ou Libra!</p>
+<p align="justify">Na segunda aula o desafio proposto foi a criação de um conversor de moedas, onde você poderá transformar em reais um valor que estiver em Dólar,Euro,Bitcoin ou Libra! E ainda foi proposto um desafio extra, que era a criação de um conversor de Kilometro para a anos-luz.</p>
 
 
 
