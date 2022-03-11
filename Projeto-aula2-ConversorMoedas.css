@@ -1,0 +1,58 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 400px;
+  background-image: url("https://img.freepik.com/vetores-gratis/gato-de-desenho-animado-com-muito-dinheiro_274619-865.jpg?w=360");
+  background-color: #ffffff;
+  background-size: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #000000;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #000000;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+label {
+  color: black;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 30px;
+  background: #006400;
+}
+
+h2 {
+  color: #000000;
+  font-size: 30px;
+}

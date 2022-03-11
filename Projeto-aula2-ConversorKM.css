@@ -1,0 +1,48 @@
+body {
+  font-family: 'arial',monospace;
+  min-height: 400px;
+  background-image: url('https://img.freepik.com/vetores-gratis/astronauta-fofo-dormindo-na-ilustracao-da-lua_138676-3294.jpg?w=360');
+  background-color: #D8BFD8;
+  background-size: 75vh;
+  background-size: cover;
+  background-position: left bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  text-align: center;
+  padding: 50px;
+  height: 100vh;
+  color:#000000;
+  
+ 
+}
+
+.page-title {
+  color:#FF00FF;
+  margin: 5px;
+}
+
+.page-subtitle {
+  color:<b>#8B008B;
+  margin-top: 5px;
+}
+
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #8B008B;
+}

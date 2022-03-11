@@ -1,0 +1,45 @@
+body {
+  font-family: 'arial',monospace;
+  min-height: 400px;
+  background-image: url("https://img.freepik.com/vetores-gratis/emoticons-de-tempo-bonito-personagem-de-clima-engracado-estrelas-de-mao-desenhada-vento-arco-iris-e-flash-sorrindo-conjunto-de-icones-de-ilustracao-de-sinais-de-tempo-kawaii-colorido-arco-iris-de-relampago-de-meteorologia-de-criancas_229548-376.jpg?w=740");
+  background-color: #000000;
+  background-size: 50vh;
+  background-size: cover;
+  background-position: left bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+ 
+}
+
+.page-title {
+  color:#000000;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color:#000000;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #ffffff;
+}
