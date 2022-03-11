@@ -43,6 +43,14 @@
 
 <p align="justify">Na quarta aula o desafio proposto era criar uma lista, com imagens de qualquer assunto que era de interesse pessoal, podendo ser filmes,séries,cursos etc.</p>
 
+<h1 align="center">Aula 5 - AluraFlix2 </h1> <br />:octocat:
+
+
+[Link do resultado](https://codepen.io/sa-g0s/pen/rNYXvmz) <br />
+
+
+<p align="justify">Na quinta aula o desafio proposto era adicionar ao projeto da aula anterior uma caixa para introdução de URL de imagens direto da página e não mais pleo console.</p>
+
 
 
 
