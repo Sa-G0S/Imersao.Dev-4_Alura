@@ -49,8 +49,24 @@
 [Link do resultado](https://codepen.io/sa-g0s/pen/rNYXvmz) <br />
 
 
-<p align="justify">Na quinta aula o desafio proposto era adicionar ao projeto da aula anterior uma caixa para introdução de URL de imagens direto da página e não mais pleo console.</p>
+<p align="justify">Na quinta aula o desafio proposto era adicionar ao projeto da aula anterior uma caixa para introdução de URL de imagens direto da página e não mais pelo console.</p>
 
 
+<h1 align="center">Aula 6 - Tabela de Classificação </h1> <br />:octocat:
+
+
+[Link do resultado](https://codepen.io/sa-g0s/full/jOYEwBZ) <br />
+
+
+<p align="justify">Na sexta aula o desafio proposto foi criar uma tabela de classifição para jogos, nela pode ser incluir vitorias, derrotas e empates através de botões.</p>
+
+
+<h1 align="center">Aula 7 e 8 - Super-Trunfo </h1> <br />:octocat:
+
+
+[Link do resultado](https://codepen.io/sa-g0s/full/zYpGwJp) <br />
+
+
+<p align="justify">Na sétima e oitava aula o desafio proposto foi a criação de um jogo de cartas como o Super Trunfo, onde era preciso criar cartas com tema a ser escolhido, o jogo é contra a máquina, que sorteia aleatóriamente as cartas e o jogar pode escolher o atributo do qual deseja duelar.</p>
 
 
